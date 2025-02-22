@@ -1,3 +1,5 @@
+Here’s the updated `README.md` file with the video link and image included. I’ve added sections for the **screenshot** and **demo video** to make it visually appealing and informative.
+
 ---
 
 # Task Manager with AI-Powered Recommendations
@@ -11,13 +13,15 @@ A modern task management application built with **Next.js**, **Tailwind CSS**, a
 ## Table of Contents
 
 1. [Features](#features)
-2. [Tech Stack](#tech-stack)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [API Endpoints](#api-endpoints)
-6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
+2. [Screenshot](#screenshot)
+3. [Demo Video](#demo-video)
+4. [Tech Stack](#tech-stack)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [API Endpoints](#api-endpoints)
+8. [Deployment](#deployment)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ---
 
@@ -34,6 +38,22 @@ A modern task management application built with **Next.js**, **Tailwind CSS**, a
   - Fully responsive UI powered by Tailwind CSS.
 - **Authentication (Optional)**:
   - Built-in support for JWT-based authentication (can be extended).
+
+---
+
+## Screenshot
+
+Here’s a preview of the Task Manager application:
+
+![Task Manager Screenshot](https://github.com/user-attachments/assets/23fcd5e4-23c8-461d-92ac-6aa8a65486cc)
+
+---
+
+## Demo Video
+
+Watch a demo of how the Task Manager application works:
+
+[![Task Manager Demo](https://cdn.loom.com/sessions/thumbnails/2f235cb68eae487daab82c265869e7b9-with-play.gif)](https://www.loom.com/share/2f235cb68eae487daab82c265869e7b9?sid=81ba99aa-f8fa-4ef0-81dd-badacc7045a3)
 
 ---
 
@@ -197,3 +217,5 @@ For questions or feedback, feel free to reach out:
 - **Email**: [manoharreddy@example.com](mailto:manoharreddy@example.com)
 
 ---
+
+Let me know if you need further adjustments!
