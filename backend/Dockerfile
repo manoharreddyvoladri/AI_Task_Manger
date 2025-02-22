@@ -1,4 +1,4 @@
-# Use the official Golang image
+# Use the official Golang image for building
 FROM golang:1.21-alpine AS builder
 
 # Set working directory
