@@ -1,5 +1,3 @@
-Here’s the updated `README.md` file with the video link and image included. I’ve added sections for the **screenshot** and **demo video** to make it visually appealing and informative.
-
 ---
 
 # Task Manager with AI-Powered Recommendations
@@ -53,7 +51,8 @@ Here’s a preview of the Task Manager application:
 
 Watch a demo of how the Task Manager application works:
 
-[![Task Manager Demo](https://cdn.loom.com/sessions/thumbnails/2f235cb68eae487daab82c265869e7b9-with-play.gif)](https://www.loom.com/share/2f235cb68eae487daab82c265869e7b9?sid=81ba99aa-f8fa-4ef0-81dd-badacc7045a3)
+[Task Manager Demo](https://www.loom.com/share/2f235cb68eae487daab82c265869e7b9?sid=21b6dce3-422b-44c7-b8d9-fb85b4ec0f77)
+
 
 ---
 
@@ -217,5 +216,3 @@ For questions or feedback, feel free to reach out:
 - **Email**: [manoharreddy@example.com](mailto:manoharreddy@example.com)
 
 ---
-
-Let me know if you need further adjustments!
